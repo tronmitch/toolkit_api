@@ -1,0 +1,450 @@
+[
+ {
+  "Command": "create",
+  "ShortDescription": "Open an assembly",
+  "LongDesciption": "Opens an existing assembly and sets it as the TOPASM.",
+  "syntax": "create <assembly name>",
+  "example": "create template.asm"
+ },
+ {
+  "Command": "chdir",
+  "ShortDescription": "Change working Directory",
+  "LongDesciption": "Changes to working director",
+  "syntax": "chdir <path to working directory>",
+  "example": "chdir C:\\\\docs\\\\partvault"
+ },
+ {
+  "Command": "delcbyr",
+  "ShortDescription": "Delete a componpenent by rule",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "assem",
+  "ShortDescription": "add component to an assem",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "mkdir",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "addstoc",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "save",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "rencbyr",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "import",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "mvandtpl",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "addparam",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "chparam",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "mrgparam",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "open",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "load",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "kenna1",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "kenna1c",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "kenna2",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "kenna3",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "kenna4",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "kenna5",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "kenna6",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "kenna7",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "kennafrmadd",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "asmdfcsys",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "addmmat",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "asgnmat",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "display",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "addstocbybcol",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "color",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "colorof",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "deletef",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "iftrueskipn",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "getcsysn",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "renamecbycol",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "renamend",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "export",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "chunits",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "convert",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "kps1",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "delsuprs",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "chcolorif",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "loadtrail",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "crdraw",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "export3D",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "importas",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "eraseo",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "drwshodims",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "crplane",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "fileshealth",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "export2d",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "setconfopt",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "export3Dflat",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "bnbox",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "exportj",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "swlayer",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "jbnbox",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "erasend",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "drwshtdel",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "drwshtadd",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "addcsysp",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "drwshtset",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "drwshtrgn",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ },
+ {
+  "Command": "convertak1",
+  "ShortDescription": "",
+  "LongDesciption": "",
+  "syntax": "",
+  "example": ""
+ }
+]
