@@ -10,12 +10,12 @@
   "Command": "chdir",
   "ShortDescription": "Change working Directory",
   "LongDesciption": "Changes to working director",
-  "syntax": "chdir <path to working directory>",
+  "syntax": "chdir path to working directory",
   "example": "chdir C:\\\\docs\\\\partvault"
  },
  {
   "Command": "delcbyr",
-  "ShortDescription": "Delete a componpenent by rule",
+  "ShortDescription": "Delete a componpenent by rule asdfasdf",
   "LongDesciption": "",
   "syntax": "",
   "example": ""

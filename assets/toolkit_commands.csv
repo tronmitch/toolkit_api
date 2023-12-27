@@ -1,7 +1,7 @@
 Command,Short Description,Long Desciption,syntax,example
 create,Open an assembly,Opens an existing assembly and sets it as the TOPASM.,create <assembly name>,create template.asm
-chdir,Change working Directory,Changes to working director,chdir <path to working directory>,chdir C:\\docs\\partvault
-delcbyr,Delete a componpenent by rule,,,
+chdir,Change working Directory,Changes to working director,chdir path to working directory,chdir C:\\docs\\partvault
+delcbyr,Delete a componpenent by rule asdfasdf,,,
 assem,add component to an assem,,,
 mkdir,,,,
 addstoc,,,,
